@@ -1,6 +1,5 @@
 """
 ******************************
-CS 1026 - Assignment 2 – Password Strength
 Code by: Muniver Kaur Kharod
 ******************************
 This file is used to run the password strength checking program by prompting the user

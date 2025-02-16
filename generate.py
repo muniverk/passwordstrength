@@ -1,6 +1,5 @@
 """
 ******************************
-CS 1026 - Assignment 2 – Password Strength
 Code by: Muniver Kaur Kharod
 ******************************
 This file is used to randomly generate a password of a specified length.

@@ -2,8 +2,6 @@
 ******************************
 CS 1026 - Assignment 2 – Password Strength
 Code by: Muniver Kaur Kharod
-Student ID: mkharod2
-File created: October 20, 2024
 ******************************
 This file is used to run the password strength checking program by prompting the user
 for a minimum strength value and calling the process_password function from the login.py file.

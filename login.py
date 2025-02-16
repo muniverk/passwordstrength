@@ -2,8 +2,6 @@
 ******************************
 CS 1026 - Assignment 2 – Password Strength
 Code by: Muniver Kaur Kharod
-Student ID: mkharod2
-File created: October 20, 2024
 ******************************
 This file prompts the user to create a new password or generate a random one. It checks the password strength using functions
 from the password.py and generate.py files. The program continues to prompt the user until a password meeting the minimum

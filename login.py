@@ -1,6 +1,5 @@
 """
 ******************************
-CS 1026 - Assignment 2 – Password Strength
 Code by: Muniver Kaur Kharod
 ******************************
 This file prompts the user to create a new password or generate a random one. It checks the password strength using functions
